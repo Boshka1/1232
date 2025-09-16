@@ -1,0 +1,10 @@
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\bin\Debug\Drazhin_32_1_AI.exe.config
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\bin\Debug\Drazhin_32_1_AI.exe
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\bin\Debug\Drazhin_32_1_AI.pdb
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.csproj.AssemblyReference.cache
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.FormMain.resources
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.Properties.Resources.resources
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.csproj.GenerateResource.cache
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.csproj.CoreCompileInputs.cache
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.exe
+Z:\Drazhin_32_1_AI\Drazhin_32_1_AI\obj\Debug\Drazhin_32_1_AI.pdb
